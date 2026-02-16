@@ -1,0 +1,7 @@
+Polymorphism is one of the 4 pillars of object-oriented programming languages where poly means many and morphism means transforming one form into another. 
+Polymorphism means the same function with different signatures is called many times. It allows methods to do different things based on the object it is acting upon.
+
+In JavaScript, polymorphism works in two primary ways:
+
+Method Overriding: A child class overrides a method of its parent class.
+Method Overloading (simulated): A function behaves differently based on the number or type of its arguments.
